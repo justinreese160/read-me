@@ -1,5 +1,5 @@
 ![licenseBadge](https://img.shields.io/badge/license-MIT-red)
-  # fgj
+  # My Project
   ## Table of contents
   * [description](#description)
   * [installationInstructions](#installationInstructions)
@@ -11,22 +11,22 @@
   * [email](#email)
 
   ## description
-  fjj
+  Describing my project
   ## installationInstructions
-  df
+  How to install project
   ## usage
-  fdgh
+  How I use the project
   ## contributing
-  dfg
+  My guidelines
   ## tests
-  fgj
+  testing
 
   ## license
   [MIT link](https://opensource.org/licenses/MIT)
   
  
   ## Github
-  [Github Link](https://github.com/jf)
+  [Github Link](https://github.com/justinreese160)
 
   
 
