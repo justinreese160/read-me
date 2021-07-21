@@ -28,7 +28,8 @@
   ## Github
   [Github Link](https://github.com/justinreese160)
 
-  
+  ## Video
+  https://drive.google.com/file/d/1kTh4Ajt0FeKu_cfvycphFg3pagl-_PT3/view?usp=sharing
 
   
 
